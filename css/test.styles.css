@@ -1,0 +1,106 @@
+
+/* styles for my website */
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+body {
+    background:lightgray;
+
+}
+
+header {
+   /* height:200px; */
+    background:darkgreen;
+    overflow: hidden; 
+    padding:20px 0;
+}
+
+#inner-header,
+#inner-footer {
+    margin:0px auto;
+    max-width:1200px;
+}
+
+#logo {
+    float:left;
+}
+
+.img-1MAMP {
+    width: 300px;
+}
+
+h1 {
+    text-Align: center;
+}
+
+nav ul {
+
+    text-align:center;
+    
+}
+
+nav li {
+    float:left;
+    margin-left:120x;
+    list-style-type:none;
+    width:140px;
+    padding: 10px;
+    border: 2px solid black
+}
+
+nav a {
+    text-decoration:
+}
+
+#wrapper {
+    margin:20px auto;
+    max-width:1200px;
+}
+
+#hero {
+    height:50px;
+    background:darkblue;
+    margin-bottom:20px;
+    clear:both;
+}
+
+main {
+    width:62%;
+    height:1300px;
+    margin-bottom:20px;
+    background:yellow;
+    float:left;
+}
+
+aside {
+width:35%;
+height:400px;
+background:red;
+float:right;
+}
+
+aside lu {
+float:left; 
+}
+
+footer {
+    border-top:1px solid #666;
+    height:50px;
+    clear:both;
+    height:50px;
+    line-height: 50px;
+}
+
+footer li {
+    float:left;
+    margin: right 30px;
+    list-style-type:none;
+}
+
+
+
+}
