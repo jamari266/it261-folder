@@ -5,7 +5,7 @@
         <meta name= "viewport" content= "width=device-width" initial-scale= "1.0" >
         <meta http-equiv= "X-UA-Compatible"content = "ie-edge" >
         <title> Home Page </title>
-        <link href= "css/test.styles.css" type="text/ css" rel= "stylesheet">
+        <link href= "css/test.styles.css" type="text/css" rel= "stylesheet">
     </head>
 
     <body>
@@ -16,7 +16,8 @@
 
                 
 
-            </div> <!--end inner header-->
+            </div> 
+            <!--end inner header-->
 
         </header>
     
@@ -25,10 +26,10 @@
             <nav>
                 
                 <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="switch.php">Switch</a></li>
+                    
+                    <li><a href="website/daily.php">Switch</a></li>
                     <li><a href="troubleshoot.php">Troubleshoot</a></li>
-                    <li><a href="project.php">Project</a></li>
+                    <li><a href="email.php">Email</a></li>
                     <li><a href="calculator.php">Calculator</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="database.php">Database</a></li>
@@ -44,10 +45,10 @@
     I enjoy spending time with friends, playing videos games and trying new foods.</p>
 
     <h3>MAMP Local Host- Screen shot:   </h3>
-   <p> <img class="img-localhost"src="images/localhost.png" alt="" width="400" heigh=t"200"> </p>
+   <p> <img class="img-localhost" src="images/localhost.PNG" alt="" width="400" height="200"> </p>
  
     <h4> MAMP Error- Screen shot:  </h4>
-    <p> <img class="img-localhost-error"src="images/localhost-error.png" alt="" width="400" heigh=t"200"> </p>
+    <p> <img class="img-localhost-error" src="images/localhost-error.PNG" alt="" width="400" height="200"> </p>
 </main>
 
 <aside>
@@ -55,17 +56,38 @@
 
     <h2>Week 1</h2>
     <ul>
-        <li><a href="index.php">index.html</a></li>
+        <li><a href="website/index.php">index.php</a></li>
         
     </ul>
     <h2>Week 2</h2>
     <ul>
-        <li><a href="var.php">Var.php</a></li>
-        <li><a href="Currency-logic.php">Currency-logic.php</a></li>
+        <li><a href="weeks/week2/var.php">Var.php</a></li>
+        <li><a href="weeks/week2/currency-logic1.php">Currency-logic.php</a></li>
+        <li><a href="weeks/week2/currency1.php">Currency.php</a></li>
         
     </ul>
     <h2>Week 3</h2>
+    <ul>
+        <li><a href="weeks/week3/arrays.php">arrays.php</a></li>
+        <li><a href="weeks/week3/if-else.php">if-else.php</a></li>
+        <li><a href="weeks/week3/heredoc.php">heredoc.php</a></li>
+        <li><a href="weeks/week3/date.php">date.php</a></li>
+        <li><a href="weeks/week3/for-loop.php">for-loop.php</a></li>
+        <li><a href="weeks/week3/switch.php">switch.php</a></li>
+        
+    </ul>
+    
     <h2>Week 4</h2>
+    <ul>
+        <li><a href="weeks/week4/adder.php">adder.php</a></li>
+        <li><a href="weeks/week4/arithmetic-form.php">arithmetic-form.php</a></li>
+        <li><a href="weeks/week4/celcius.php">celcius.php</a></li>
+        <li><a href="weeks/week4/form1.php">form1.php</a></li>
+        <li><a href="weeks/week4/form2.php">form2.php</a></li>
+        <li><a href="weeks/week4/form3.php">form3.php</a></li>
+        <li><a href="weeks/week4/form-get.php">form-get.php</a></li>
+    </ul>
+
     <h2>Week 5</h2>
 
 </aside> 

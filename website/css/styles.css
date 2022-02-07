@@ -71,14 +71,14 @@ float:right;
 
 footer {
     border-top:1px solid #666;
-    height:50px;
+    height:70px;
     clear:both;
-    height:50px;
-    line-height: 50px;
+    line-height: 60px;
 }
 
 footer li {
     float:left;
-    margin: right 30px;
+    margin: right 50px;
     list-style-type:none;
+    padding-left: 80px;
 }

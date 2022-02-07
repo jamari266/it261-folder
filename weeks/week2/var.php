@@ -5,6 +5,7 @@
 
 
 $name = 'Olga';
+// the infromation between the single quotes is a string
 echo $name;
 echo '<br>';
 $name = 'Anthony';
@@ -19,7 +20,7 @@ echo 'My frist name is '.$name.' ';
 echo '<br>';
 $temp = 45;
 // another data type is integers
-echo 'The temperature today was '.$temp.' degrees';
+echo 'The temperature today was ' .$temp. ' degrees ';
 echo '<br>';
 
 $body_temp = 98.6;
@@ -39,11 +40,11 @@ $z = $x * $y;
 echo $z;
 
 // circumference of a circle 2 pie r
-
+echo '<br>';
 $pie = 3.14;
 $radious = 10;
-$circumfrence = (2* $pie) * $radious;
-echo $cricumference 
+$circumfrence = (2 * $pie) * $radius;
+echo $circumfrence;
 
 echo '<br>';
 

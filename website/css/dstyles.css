@@ -7,6 +7,11 @@
     box-sizing:border-box;
 }
 
+#wrapper {
+    width:940px;
+    margin:20px auto;
+}
+
 body {
     background:lightgray;
 
@@ -14,7 +19,7 @@ body {
 
 header {
    /* height:200px; */
-    background:darkgreen;
+    background:yellow;
     overflow: hidden; 
     padding:20px 0;
 }
@@ -28,85 +33,48 @@ header {
 #logo {
     float:left;
 }
-
-.img-1MAMP {
-    width: 300px;
-}
-
-h1 {
-    text-Align: center;
-}
-
-nav ul {
-
-    text-align:center;
-    
+Nav ul {
+    float:right; 
 }
 
 nav li {
     float:left;
-    margin-left:120x;
+    margin-left:15px;
     list-style-type:none;
-    width:140px;
-    padding: 10px;
-    border: 2px solid black
 }
 
-nav a {
-    text-decoration:none; 
-}
 
 #wrapper {
     margin:20px auto;
     max-width:1200px;
 }
 
-#hero {
-    height:50px;
-    background:darkblue;
-    margin-bottom:20px;
-    clear:both;
-}
 
 main {
-    width:62%;
-    height:1300px;
+    width:50%;
+    height:400px;
     margin-bottom:20px;
-    background:yellow;
+    background:lightblue;
     float:left;
 }
 
 aside {
 width:35%;
-height:400px;
-background:red;
+height:300px;
+background:coral;
 float:right;
-
-}
-
-aside h2 {
-padding-left: 150px;
-
-}
-aside ul {
-padding-left: 150px;
-
 }
 
 footer {
     border-top:1px solid #666;
-    height:50px;
+    height:70px;
     clear:both;
-    height:50px;
-    line-height: 50px;
+    line-height: 60px;
 }
 
 footer li {
     float:left;
-    margin: right 30px;
+    margin: right 50px;
     list-style-type:none;
-}
-
-
-
+    padding-left: 80px;
 }
