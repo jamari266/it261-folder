@@ -11,7 +11,7 @@
     <h1>My currency converter form!</h1>
     <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']);?>" method="post">
    <label>Name</label>
-   <input type="text" name="name" value="<?php if(isset($_POST['name'])) echo htmlspecialchars($_POST['name'])  ;?>">
+   <input type="text" name="name" value="<?php if(isset($_POST['name'])) echo htmlspecialchars($_POST['name'])  ?>">
     
    <label>Email</label>
    <input type="email" name="email" value="<?php if(isset($_POST['email'])) echo htmlspecialchars($_POST['email'])  ;?>">
@@ -25,7 +25,7 @@ pounds = 1.37;
 euros = 1.14;
 yen = 0.0087; -->
 <!-- the logic behind the stickiness in our radio button is if post currency is set and if post currency = value, echo checked = checked -->
-<label>Price of gas</label>
+<label>Currency</label>
 <ul>
 <li>
 <input type="radio" name="currency" value="0.013"<?php if(isset($_POST['currency']) && $_POST['currency'] == 0.013 ) echo 'checked = "checked" ' ;?>>Rubles
@@ -78,7 +78,8 @@ yen = 0.0087; -->
 // pounds = 1.37;
 // euros = 1.14;
 // yen = 0.0087;
-
+error_reporting(E_ALL);
+ini_set("display_errors", 1);
 if($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 if(empty($_POST['name'])) {
@@ -120,7 +121,7 @@ if(!empty($name && $email && $amount && $currency && $bank)) {
 
     echo ' 
     <div class="box">
-    <h2>Hello, <b> '.$name.'</b>!</h2>
+    <h2>Hello, <b> '.$nameakjsdgfsj.'</b>!</h2>
     <p>We have confirmed your email as<b> '.$email.' </b>,and we will be sending you the following information!</p>
     <p>You have deposited '.$amount.' in foreign currency</p>
     <p>And, this will equal to $ '.$total.' American Dollars</p>
