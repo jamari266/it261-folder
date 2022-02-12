@@ -43,12 +43,13 @@
 <p>Hello, my name is Ja'Mari Adams. I was born and raised in Seattle Washington 
     and I graduated from Chief Sealth High School in 2010. 
     I enjoy spending time with friends, playing videos games and trying new foods.</p>
-
+<p> <a href="website/about me website/aboutme.html">Click this link to view my "about me page"</a> </p>
+<p> <a href="website/about me website/resume.html">Click this link to view my "Resume page"</a> </p>
     <h3>MAMP Local Host- Screen shot:   </h3>
    <p> <img class="img-localhost" src="images/localhost.PNG" alt="" width="400" height="200"> </p>
  
     <h4> MAMP Error- Screen shot:  </h4>
-    <p> <img class="img-localhost-error" src="images/localhost-error.PNG" alt="" width="400" height="200"> </p>
+    <p> <img class="img-localhost-error" src="images/localhost-error.png" alt="" width="400" height="200"> </p>
 </main>
 
 <aside>
@@ -89,7 +90,13 @@
     </ul>
 
     <h2>Week 5</h2>
-
+    <ul>
+        <li><a href="weeks/week5/currency.php">currency.php</a></li>
+        <li><a href="weeks/week5/currency2.php">currency2.php</a></li>
+        <li><a href="weeks/week5/CurrencyCalculator.php">CurrencyCalculator.php</a></li>
+        <li><a href="weeks/week5/null.php">null.php</a></li>
+    </ul>
+    <h2>Week 6</h2>
 </aside> 
 
         </div> <!--end wrapper-->
@@ -97,10 +104,15 @@
     <div id="inner-footer">
     <ul>
         <li>Copyright &copy;</li>
+
         <li>All Rights Reserved</li>
-        <li><a href="../index.php">Web Design by Olga</a></li>
+
+        <li><a href="../index.php">Web Design by jamari</a></li>
+
         <li><a href="">HTML Validation</a></li>
+
         <li><a href="">CSS Validation</a></li>
+
     </ul>
 </div> <!--end inner footer-->
 </footer> 

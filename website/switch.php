@@ -110,7 +110,7 @@ echo $coffee;
 <h2>Check out our Daily Specials</h2>
 
 <ul>
-<li><a href="switch.php?today=Wedensday">Wedensday</a></li>
+<li><a href="switch.php?today=Wednesday">Wednesday</a></li>
     <li><a href="switch.php?today=Thursday">Thursday</a></li>
     <li><a href="switch.php?today=Friday">Friday</a></li>
     <li><a href="switch.php?today=Saturday">Saturday</a></li>

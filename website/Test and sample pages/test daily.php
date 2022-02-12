@@ -9,7 +9,8 @@ include ('includes/header.php');
         
 
         <main>
-        <h1><?php echo $headline ;?></h1> 
+            <h2 class="<?php echo $actDay ;?> "><?php echo $day; ?></h2>
+        <h1><?php echo $detailss; ?></h1> 
         <h2>Welcome to Daily Page</h2> 
         <p>Here comes my specials</p>
 

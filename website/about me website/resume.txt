@@ -1,0 +1,146 @@
+<html>
+    <head>
+    <title> Resume </title>
+    </head>
+    <body>
+    <h1> </h1>
+    <p>Ja’Mari Adams
+SW• Seattle, WA 98116 • (206)602-8993
+jamari2adams@Gmail.com
+
+TECHNICAL SKILLS											
+      Software:
+•	MS Office 2010 suite
+•	Windows XP,Windows 7,Windows 8,Windows 10
+•	VMware, Oracle
+•	Esmart
+•	RMS
+•	Active Directory 
+•	Zscope
+•	MoblieIron 6
+•	Remote desktop 	  Hardware:
+•	Dell, HP, Lenovo laptops, desktops & servers
+•	Various peripherals including printers, copiers and scanners
+•	Introduced to imaging and managing servers over the network
+•	Avaya- phone system 
+
+Coding/Programming:
+•	HTML\CSS	     Support:
+•	Excellent Phone and email etiquette
+•	Troubleshooting
+•	Detailed oriented
+
+EXPERIENCE______________________________________________________________________________
+Target  	    	   November 2018 -2019
+Seattle, WA
+  Cashier/ Customer service 
+•	Receive payment by cash, check, credit cards, vouchers, or automatic debits
+•	Issue receipts, refunds, credits, or change due to customers 
+•	Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change.
+•	Main duties include ringing up sales, bagging items, requesting price checks, honoring coupons, collecting payment and giving appropriate change
+•	Responsible for counting the contents of cash register drawer at the end of each shift, maintaining receipts, records and withdrawals
+•	Greet customers when entering or leaving establishment
+•	Maintain clean and tidy checkout areas
+
+Bellevue Club  	    	   January 2016 –May 2016
+Bellevue, WA
+Help Desk Tier 1   
+•	Repaired and managed Desktop inventory
+•	Provided Tier 1 support by closing 10-20 tickets per day
+•	Received 5-10 calls a day 
+•	Escalated tickets to Tier 2 and 3 analysts as needed
+•	Maintained 3-day SLA in order to provide excellent customer service to internal customers
+•	Documented, Resolved, and closed Incidents.
+•	Reimaged 20-30 desktops & laptops 
+•	Mapped Printers to Network 
+•	Built & Setup Workstations for incoming employees 
+•	Scheduled inventory Pickup for old & broken assets 
+
+Microsoft  		 July 2015 –November 2015
+Redmond, WA
+Advocacy Manager 
+•	Provided to internal and external support to Microsoft customers  by closing 10 tickets per week
+•	Received 5-10 calls a week 
+•	Maintained 3-day SLA in order to provide excellent customer service to internal customers
+•	Documented, Resolved, and closed Incidents.
+•	Utilized appropriate escalation routes to facilitate the timely resolution of customer issues and escalations.  
+•	Prioritized & managed workload based on business needs.
+•	Participated in team meetings, discussions and other activities as required supporting the team and improving the quality of CFA operations.
+College Success Foundation 	       	 April 2015 –June 2015
+Issaquah, WA
+Help Desk Analyst
+•	Provided Tier 1 support by closing 10-20 tickets per day
+•	Received 5-10 calls a day 
+•	Escalated tickets to Tier 2 and 3 analysts as needed
+•	Maintained 3-day SLA in order to provide excellent customer service to internal customers
+•	Documented, Resolved, and closed Incidents.
+•	Reimaged 20-30 desktops & laptops 
+•	Mapped Printers to Network 
+•	Built & Setup Workstations for incoming employees 
+•	Scheduled inventory Pickup for old & broken assets 
+
+
+Nordstrom 		August 2014 –October 2014
+Seattle, WA
+Service Desk Analyst
+•	Provided Tier 1 support by closing 20-70 tickets per day
+•	Received 50-70 calls a day 
+•	Escalated tickets to Tier 2 and 3 analysts as needed
+•	Maintained 3-day SLA in order to provide excellent customer service to internal customers
+•	Documented, Resolved,  And closed Incidents.
+•	Provided Remote desktop assistance to help customers internal customers in other states. 
+
+Boeing                                                                                                                                   		 December 2013- June 2014
+Bellevue, WA
+Help Desk Analyst
+•	Member of C-IMACD Team (Computing install, Move, Acquisition, Change, And Dispose)
+•	Provided Tier 1 support by closing 40-50 tickets per day
+•	Maintained 3-day SLA in order to provide excellent customer service to internal customers
+•	Coordinated with Dell team to provide timely shipping and deployments to customers
+•	Escalated tickets to Tier 2 and 3 analysts as needed
+
+Microsoft 										  February 2013- July 2013
+Redmond, WA
+Support Analyst/Intern 
+•	Learned about Microsoft Cutler and ITIL V3 Infrastructure
+•	Patched 365 servers, assisting Manufacturing, Supply Chain, Information and Services support team
+•	Assisted the MSCIS team with troubleshooting and assisting internal customers
+•	Attended weekly Tuesday staff meetings and participated in international team conference calls 
+
+
+
+QFC   										        November 2011-February 2014
+Seattle, WA.                     
+Seafood Customer Service Representative 
+•	Provided professional customer service to customers in a timely manner
+•	Created and stocked daily product; managed inventory and executed special promotions and sales 
+•	Closed seafood department on a regular basis by completing end of day restocking and cleaning procedures 
+
+Albertsons    									         August 2010- December 2011 
+Seattle, WA.                     
+Courtesy Clerk 										
+•	Ensured the readiness and brand standard appearance of each check stands in our locations
+•	Stocked shelves and monitored incoming deliveries in order to move product to store floor quickly
+
+
+
+
+
+
+EDUCATION_______________________________________________________________________________ 
+Year Up Puget Sound, Seattle, WA 						September 2012 – July 2013 
+Bellevue College, Introduction to Technical Support Certificate					 		
+•	A highly competitive technical and professional development program that provides hands-on skills development, Bellevue College credits, and corporate internships at leading Puget Sound corporations. Courses include Information Technology, Business Communications, and customer service skills. 
+•	Completed coursework in Professional Skills, Business Communications and Computer Networking Information Technology 
+
+Chief Sealth High School, Seattle, WA						June 2010
+•	High School Diploma
+
+Volunteer Experience 
+South West Community Center, Seattle WA			       			October 2011-/October-2012
+Hip Hop Dance Instructor
+•	Instructed Hip Hop Dance to ten middle school and high school youth once a week.
+ </p>
+
+    </body>
+</html>

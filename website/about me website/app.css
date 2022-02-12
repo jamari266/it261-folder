@@ -1,0 +1,13 @@
+header, footer {
+    background-color: #004a4a;
+    color: #000;
+    padding: 20px;
+    text-align: center;
+}
+aside {
+    padding-top: 10px;
+    font-weight: bold;
+}
+h2 {
+    color: darkblue;
+}

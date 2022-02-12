@@ -81,7 +81,7 @@ h1, h2 {
 
        <tr>
            <td>Euros</td>
-           <td><?php echo number_format ($euros, 2) ;?></td>
+           <td><?php echo number_format ($eurosss, 2) ;?></td>
        </tr>
 
        <tr>
