@@ -6,6 +6,10 @@
         <meta http-equiv= "X-UA-Compatible"content= "ie-edge" >
         <title><?php echo $title ;?> </title>
         <link href= "./css/styles.css" type="text/css" rel= "stylesheet">
+        
+        <link href= "./css/daily-styles.css" type="text/css" rel= "stylesheet">
+
+        <link href= "./css/contactformstyles.css" type="text/css" rel= "stylesheet">
     </head>
 
     <body class="<?php echo $body ;?>">
