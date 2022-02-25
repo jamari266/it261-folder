@@ -1,0 +1,21 @@
+
+/* styles for my website */
+
+*{
+    padding: 0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+main {
+    height:auto; 
+
+}
+
+label {
+    display: block; 
+    
+    
+
+
+}
