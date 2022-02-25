@@ -14,7 +14,7 @@ if(isset($_GET['today'])) {
 
 ?>
 
-<?php include ('include/form.php')  ;?>
+
 
     
         <div id= "wrapper" >
@@ -27,7 +27,7 @@ if(isset($_GET['today'])) {
         
 
 
-<link href= "./css/daily-styles.css" type="text/css" rel= "stylesheet">
+
 <style>
 
 
@@ -38,7 +38,7 @@ if(isset($_GET['today'])) {
 
 <body>
  
-<h1>Contact us today </h1>
+
 <?php
 echo $coffee;
 ?>
@@ -48,7 +48,7 @@ echo $coffee;
 
 
 <h2>Here is my Contact Form!!!</h2>
-
+<?php include ('includes/form.php')  ;?>
 </main>
 <aside>
   <h3> This is my aside with an appropriate image for my topic </h3>
@@ -57,7 +57,7 @@ echo $coffee;
 </aside>
 </div>  <!--end wrapper-->
 
-  
+
 <?php
 include ('includes/footer.php')
 ?>

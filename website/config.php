@@ -21,7 +21,7 @@ switch($today) {
 
 
     case 'Sunday';
-    $actDay = 'orange'
+    $actDay = 'orange';
     $day = 'Sunday is reserved for Homeland';
     $details = 'Homeland is a show on Showtime about whatever. The main character is Clair Danes.... etec';
     $picture = 'carrie.jpg';
@@ -30,7 +30,7 @@ switch($today) {
     break;
 
     case 'Monday';
-    $actDay = 'green'
+    $actDay = 'green';
     $day = 'Monady is reserved for Succession';
     $details = 'Succession is a show on Showtime about whatever. This series is based on the Murdock Family';
     $picture = 'succession.jpg';
@@ -39,7 +39,7 @@ switch($today) {
     break;
 
     case 'Tuesday';
-    $actDay = 'purple'
+    $actDay = 'purple';
     $day = 'Tuesday is reserved for Watchmen';
     $details = 'watchmen details ';
     $picture = 'succession.jpg';
@@ -48,7 +48,7 @@ switch($today) {
     break;
 
     case 'Wednesday';
-    $actDay = 'green'
+    $actDay = 'green';
     $day = 'Monady is reserved for Succession';
     $details = 'Succession is a show on Showtime about whatever. This series is based on the Murdock Family';
     $picture = 'russell.jpg';
@@ -57,7 +57,7 @@ switch($today) {
     break;
 
     case 'Thursday';
-    $actDay = 'orange'
+    $actDay = 'orange';
     $day = 'Thursday is the day';
     $details = 'write about thursday';
     $picture = 'night.jpg';
@@ -66,7 +66,7 @@ switch($today) {
     break;
 
     case 'friday';
-    $actDay = 'red'
+    $actDay = 'red';
     $day = 'friday is reserved for Succession';
     $details = 'something about friday';
     $picture = 'nicole.jpg';
