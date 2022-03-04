@@ -110,6 +110,16 @@
         <li><a href="weeks/week7/random.php">random.php</a></li>
         <li><a href="weeks/week7/strings.php">strings.php</a></li>
     </ul>
+
+    </ul>
+    <h2>Week 8</h2>
+    <ul>
+        <li><a href="weeks/week8/config.php">config.php</a></li>
+        <li><a href="weeks/week8/credentials.php">credentials.php</a></li>
+        <li><a href="weeks/week8/footer.php">footer.php</a></li>
+        <li><a href="weeks/week8/header.php">header.php</a></li>
+        <li><a href="weeks/week8/people.php">people.php</a></li>
+    </ul>
 </aside> 
 
         </div> <!--end wrapper-->
