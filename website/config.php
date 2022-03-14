@@ -1,6 +1,10 @@
 <?php
 // we need to define the page that we are on as the page
 ob_start();
+
+define('DEBUG', 'TRUE');  // We want to see our errors
+
+include('credentials.php');
 if(isset($_GET['today'])) {
     $today = $_GET['today'];
 } else {
@@ -133,11 +137,34 @@ function make_links($nav) {
     
     } //end foreach
     return $my_return;
-
 } // end function
+
+
+
+
 
 // BELOW IS MY PHP FOR MY FORM
 // please do not use regions - use your own select option values
 // please do not use wines - you will use your own checkbox options
 
 $first_name = '';
+
+
+
+
+
+
+function myError($myFile, $myLine, $errorMsg)
+{
+if(defined('DEBUG') && DEBUG)
+{
+ echo 'Error in file: <b> '.$myFile.' </b> on line: <b> '.$myLine.' </b>';
+      echo 'Error message: <b> '.$errorMsg.'</b>';
+      die();
+  }  else {
+      echo ' Houston, we have a problem!';
+      die();
+  }
+    
+    
+}

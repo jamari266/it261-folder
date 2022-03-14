@@ -25,7 +25,7 @@ th {
 
 td {
     border:1px solid red;
-    padding:60px;
+    padding:20px;
     font-size:1.2em;
 }
 

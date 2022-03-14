@@ -12,6 +12,7 @@ include ('includes/header.php');
 
 
 
+
 </main>
 
 
@@ -20,6 +21,9 @@ include ('includes/header.php');
   <img src="images/<?php echo $pic;  ?>" alt="<?php echo $alt;  ?>">
 
 </aside>
+<?php 
+include ('table.php')
+?>
 </div>  <!--end wrapper-->
 
   
