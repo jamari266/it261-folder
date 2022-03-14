@@ -29,9 +29,9 @@
                     
                     <li><a href="website/daily.php">Switch</a></li>
                     <li><a href="troubleshoot.php">Troubleshoot</a></li>
-                    <li><a href="email.php">Email</a></li>
+                    <li><a href="website/contact.php">Email</a></li>
                     <li><a href="calculator.php">Calculator</a></li>
-                    <li><a href="gallery.php">Gallery</a></li>
+                    <li><a href="website/gallery.php">Gallery</a></li>
                     <li><a href="database.php">Database</a></li>
                 </ul>
             </nav>
@@ -119,6 +119,7 @@
         <li><a href="weeks/week8/footer.php">footer.php</a></li>
         <li><a href="weeks/week8/header.php">header.php</a></li>
         <li><a href="weeks/week8/people.php">people.php</a></li>
+        <li><a href="weeks/week8/people-view.php">people-view.php</a></li>
     </ul>
 </aside> 
 
