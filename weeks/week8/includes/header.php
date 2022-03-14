@@ -8,7 +8,7 @@
     <link href="css/styles.css" type="text/css" rel="stylesheet">
 </head>
 <body>
-<dic id="wrapper">
+<div id="wrapper">
 <!--you will close your wrapper on your people.php page -->
 <?php
 

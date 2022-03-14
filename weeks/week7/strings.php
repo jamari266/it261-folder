@@ -5,23 +5,23 @@
 $statement = 'Presently, I am reading the Looming Tower';
 echo $statement;
 echo '<br>';
-echo $ubstr($statement, 0);
+echo substr($statement, 0);
 echo '<br>';
-echo $ubstr($statement, 1);
+echo substr($statement, 1);
 echo '<br>';
-echo $ubstr($statement, 11);
+echo substr($statement, 11);
 echo '<h2>Now, I would like to display just the words - I am reading</h2>';
 echo '<br>';
-echo $ubstr($statement, 11, 12);
+echo substr($statement, 11, 12);
 echo '<h2>What if I would like to display Looming?</h2>';
-echo $ubstr($statement, -13, 9);
+echo substr($statement, -13, 9);
 echo '<br>';
-echo $ubstr($statement, 4, 11);
+echo substr($statement, 4, 11);
 echo '<br>';
-echo $ubstr($statement, -20, 2);
+echo substr($statement, -20, 2);
 echo '<br>';
 echo '<h2>Now for the str_replace function!</h2>';
 
-$statement = 'HULU\'s rendition of the Looming Tower is based on the book named the Looming Tower!  ';
+$statement2 = 'HULU\'s rendition of the Looming Tower is based on the book named the Looming Tower!  ';
 
 echo str_replace('the', 'The', $statement2);
