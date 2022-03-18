@@ -3,10 +3,10 @@ include('config.php');
 include('./includes/header.php');
 ?>
 <main>
-<h1>Welcome to my people page</h1>
+<h1>Welcome to my movie page</h1>
 <?php
 // we are going to select from the people table and assign it to our $sql variable!
-$sql = 'SELECT * FROM people';
+$sql = 'SELECT * FROM movies';
 // then we are going to connet to the database!!!
 
 // define('DB_NAME', 'mystud12_winter2022');
@@ -24,13 +24,13 @@ if(mysqli_num_rows($result) > 0) {
 while($row = mysqli_fetch_assoc($result)) {
 
 echo '
-<h2>Information about '.$row['first_name'].'</h2>
+<h2>Information about '.$row['movies_name'].'</h2>
 <ul>
-<li><b>First Name:</b> '.$row['first_name'].'</li>
-<li><b>lastst Name:</b> '.$row['last_name'].'</li>
-<li><b>Birthdate:</b> '.$row['birthdate'].'</li>
+<li><b>Director Name:</b> '.$row['movies_director'].'</li>
+<li><b>Actor Name:</b> '.$row['movie_actor'].'</li>
+<li><b>Year:</b> '.$row['movie_year'].'</li>
 </ul>
-<p>For more information about '.$row['first_name'].' click <a href="people-view.php?id='.$row['people_id'].' " >here</a></p>
+<p>For more information about '.$row['movies_name'].' click <a href="project-view.php?id='.$row['movie_id'].' " >here</a></p>
 
 ';
 

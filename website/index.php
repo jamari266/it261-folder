@@ -6,7 +6,7 @@ include ('includes/header.php');
     
         <div id= "wrapper" >
         <div id= "hero" > 
-
+<?php echo random_images($photos) ; ?>
         </div> <!--end hero--> 
 
         <main>
@@ -18,6 +18,9 @@ include ('includes/header.php');
 
 <aside>
   <h3> This is my wonderful aside container! </h3>
+<div class = "function"> <?php echo 'function random_pics($photos) {
+  }' ;?>
+  </div>
 
 </aside>
 
