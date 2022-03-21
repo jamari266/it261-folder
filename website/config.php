@@ -183,7 +183,7 @@ function random_images($photos) {
 $my_return = '';
 $i = rand(0, 4);
 $selected_image = ''.$photos[$i].'.jpg ';
-$my_return ='<img src="images/'.$selected_image.'" alt="'.$photos[$i].' " height="250px" width="500px">';
+$my_return ='<img src="images/'.$selected_image.'" alt="'.$photos[$i].' " height="250px" width="350px">';
 return $my_return;
 }
 
